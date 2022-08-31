@@ -40,7 +40,7 @@ const login = () => {
           <label for="state_id" class="control-label">Tipo de documento</label>
           <select onChange={(e) => setInfo({ ...info, typeIdentification: e.target.value })} value={info.typeIdentification} name="typeIdentification" class="form-select" aria-label="Default select example" id="state_id">
             <option selected>Seleccione una opcion</option>
-            <option value="CC">Cedula deciudadanía</option>
+            <option value="CC">Cedula de ciudadanía</option>
             <option value="DNI">Pasaporte</option>
           </select>
         </div>
