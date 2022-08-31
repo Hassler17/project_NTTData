@@ -1,0 +1,26 @@
+[
+    {
+        "identifition": "1000002658",
+        "typeIdentification": "CC",
+        "firstName": "Hassler",
+        "lastName": "Ferreira"
+    },
+    {
+        "identifition": "123456789",
+        "typeIdentification": "CC",
+        "firstName": "Miguel",
+        "lastName": " Villareal"
+    },
+    {
+        "identifition": "52787561",
+        "typeIdentification": "DNI",
+        "firstName": "Jableidi",
+        "lastName": " Villareal"
+    },
+    {
+        "identifition": "100809082",
+        "typeIdentification": "DNI",
+        "firstName": "Alexandra",
+        "lastName": "Serrato"
+    }
+]

@@ -1,0 +1,9 @@
+.centerPanel {
+    margin-top: 7%;
+    width: 30%;
+}
+.centerIntems {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
