@@ -1,7 +1,7 @@
 {
   "name": "project_ntt_data",
   "version": "0.1.0",
-  "homepage": "http://Hassler17.github.io/Project_NTTData",
+  "homepage": "http://Hassler17.github.io/project_NTTData",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
